@@ -1,3 +1,3 @@
 # portfolio
-It's the portfolio tjat i made for myself
+It's the portfolio that i made for myself
 https://umutdenizvarlik.link/
